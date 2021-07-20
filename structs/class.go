@@ -63,5 +63,4 @@ func main() {
 	fmt.Println("================")
 	employee4 := NewEmployee(1, "Lagerta", true)
 	fmt.Println(*employee4)
-
 }
